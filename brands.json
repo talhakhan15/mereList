@@ -35,6 +35,13 @@
         "description":"Owned by **PepsiCo**.\n\n**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]\n\n[^1]: https:\/\/www.bloomberg.com\/view\/articles\/2018-08-22\/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
         "reasons":"operations_in_israel"
     },
+     {
+        "id":"Pepsi",
+        "name":"Pepsi Cola",
+        "description":"Owned by **PepsiCo**.\n\n**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]\n\n[^1]: https:\/\/www.bloomberg.com\/view\/articles\/2018-08-22\/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
+        "reasons":"operations_in_israel"
+    },
+
 
 
 {
@@ -1455,6 +1462,18 @@
         "description":"Owned by **The Coca-Cola Company**.\n\n**Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.[^1]\n\n[^1]: http:\/\/www.inminds.com\/boycott-coca-cola.html",
         "reasons":"operations_in_settlements"
     },
+     {
+        "id":"Coke",
+        "name":"Coke",
+        "description":"Owned by **The Coca-Cola Company**.\n\n**Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.[^1]\n\n[^1]: http:\/\/www.inminds.com\/boycott-coca-cola.html",
+        "reasons":"operations_in_settlements"
+    },
+     {
+        "id":"coke",
+        "name":"Coca Cola",
+        "description":"Owned by **The Coca-Cola Company**.\n\n**Coca-Cola Israel** owns dairy farms in the illegal Israeli settlements of Shadmot Mechola in the Jordan Valley and a plant in the industrial zone of Katzerin in the occupied Golan Heights.[^1]\n\n[^1]: http:\/\/www.inminds.com\/boycott-coca-cola.html",
+        "reasons":"operations_in_settlements"
+    },
     {
         "id":"digiorno",
         "name":"Di Giorno",
@@ -2821,6 +2840,13 @@
         "description":"Owned by **PepsiCo**.\n\n**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]\n\n[^1]: https:\/\/www.bloomberg.com\/view\/articles\/2018-08-22\/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
         "reasons":"operations_in_israel"
     },
+    {
+        "id":"lipton",
+        "name":"Supreme Tea",
+        "description":"Origanlly Brooke Bond Supreme by Lipton is Owned by **PepsiCo**.\n\n**PepsiCo** bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.[^1]\n\n[^1]: https:\/\/www.bloomberg.com\/view\/articles\/2018-08-22\/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall#xj4y7vzkg",
+        "reasons":"operations_in_israel"
+    },
+
      {
         "id":"lipton",
         "name":"Lipton Yellow Label",
@@ -5558,6 +5584,75 @@
         "description":"Owned by **Mondelez International, Inc.**\n\n**Mondelez International Inc.** on Nov. 10(2020) announced a seed investment in Torr FoodTech, an early stage company based in Israel that has developed proprietary technology Mondelez said \"brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
         "reasons":"operations_in_israel"
     },
+   
+   
+    {
+        "id":"LU",
+        "name":"Candy Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+      {
+        "id":"LU",
+        "name":"Prince Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+      {
+        "id":"LU",
+        "name":"Gala Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+
+
+
+      {
+        "id":"LU",
+        "name":"Milcolu Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+
+  {
+        "id":"LU",
+        "name":"Oreo Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+  {
+        "id":"LU",
+        "name":"Tiger Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+
+  {
+        "id":"LU",
+        "name":"Tuc Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+  {
+        "id":"LU",
+        "name":"Wheatable Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+
+  {
+        "id":"LU",
+        "name":"Bakeri Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+      {
+        "id":"LU",
+        "name":"Cadbury Mini Fingers Biscuit",
+        "description":"Owned by LU - Continental Biscuits, a joint venture of Mondelez International, Inc.On November 10, 2020, Mondelez International, Inc. announced a seed investment in Torr FoodTech, an early-stage company based in Israel. Torr has developed proprietary technology that Mondelez said “brings real, simple ingredients together to offer multi-textural, sensorial experiences.\"[^1]\n\n[^1]: https:\/\/www.foodbusinessnews.net\/articles\/17261-mondelez-invests-in-israel-food-tech-startup",
+        "reasons":"operations_in_israel"
+    },
+
     {
         "id":"whiskas",
         "name":"Whiskas",
@@ -5853,7 +5948,21 @@
         "name":"Vim (Dish washer)",
         "description":"This product is owned by **Unilever**. Unilever supports Israeli illegal settlements in occupied Palestine. When Ben & Jerry's, their sub-brand, decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel. https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/",
         "reasons":"Support Israel/Businesses in Israel"
-    },   {
+    },   
+    
+    
+    
+    {
+        "id":"shell",
+        "name":"Shell Petroleum",
+        "description":"According to a report from Oil Change International, investor-owned and private oil companies, including Shell, are reportedly complicit in facilitating supplies of crude oil to Israel and collectively supply 66% of oil to Israel. Major international oil companies, such as Shell, are collectively linked to 35% of the crude oil supplied to Israel since October. https://www.business-humanrights.org/it/latest-news/shell-non/#:~:text=According%20to%20a%20report%20from,collectively%20linked%20to%20%2235%25%20of",
+        "reasons":"Support Israel"
+    },  
+    
+    
+    
+    
+    {
         "id":"u10",
         "name":"Feast Ice cream",
         "description":"Owned by wall's whose parent company is **Unilever**. Unilever supports Israeli illegal settlements in occupied Palestine. When Ben & Jerry's, their sub-brand, decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel. https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/",
