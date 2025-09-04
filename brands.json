@@ -4,7 +4,13 @@
         "name":"24S",
         "description":"**24S** is owned by **LVMH**.\n\nBernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.[^1]\n\n[^1]: https:\/\/www.timesofisrael.com\/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz\/",
         "reasons":"operations_in_israel"
-    },     {
+    },      {
+        "id":"24s",
+        "name":"TeekyTest",
+        "description":"**24S** is owned by **LVMH**.\n\nBernard Arnault, the chairman and **CEO** of **LMVH** Moet Hennessy-Louis Vuitton, and the world's richest man according to Forbes, has **invested** in cybersecurity firm, **Wiz**, the **Israeli** maker of cloud security solutions for enterprises.[^1]\n\n[^1]: https:\/\/www.timesofisrael.com\/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz\/",
+        "reasons":"operations_in_israel"
+    }, 
+    {
         "id":"dairymilk",
         "name":"Gala Biscuit",
         "description":"Lu is owned by Continental Biscuits which is further owned by Mondelez which invests in Israeli start ups in Occupied Palestine.[^1]\n\nDon't buy Dairy Milk products.\nDon't sell Dairy Milk products\nDon't work for Mondelez\n[^1]: https:\/\/ir.mondelezinternational.com\/news-releases\/news-release-details\/mondelez-international-snackfutures-makes-seed-investment",
